@@ -27,8 +27,13 @@
     background-color: white;
   }
 
-  .btn-nav {
-    margin-left: 20px;
+  li .bnt-nav {
+    max-width: 150px;
+    height: 30px;
+  }
+  .menu-nav a {
+    font-size: 0.875em;
+    padding: 0 0;
   }
 
   /* intro */
@@ -50,8 +55,18 @@
   /* cards */
 
   .card-item {
-    max-width: 400px;
+    max-width: 300px;
     margin: 25px auto;
+  }
+
+  .card-item img {
+    max-width: 113px;
+  }
+
+  .card-item p {
+    text-align: left;
+    padding-right: 5px;
+    max-width: 300px;
   }
 
   .card-7,
@@ -129,4 +144,12 @@
   .form-container form {
     max-width: 480px;
   }
+
+  .container-logo img {
+    max-width: 100px;
+  }
+
+.btn-garantia{
+  margin: 30px 0;
+}
 }
