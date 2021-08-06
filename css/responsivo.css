@@ -149,7 +149,14 @@
     max-width: 100px;
   }
 
-.btn-garantia{
-  margin: 30px 0;
-}
+  .btn-garantia {
+    margin: 30px 0;
+  }
+
+  .intro-footer {
+    margin: 250px auto;
+  }
+  .intro-footer img {
+    max-width: 150px;
+  }
 }
