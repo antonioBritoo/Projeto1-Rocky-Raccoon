@@ -292,6 +292,12 @@ img {
   border: 2px solid #ffb900;
   padding: 10px;
 }
+
+.btn-garantia{
+  margin: 30px auto;
+  text-align: center;
+}
+
 .hr{
   display: none;
 }
